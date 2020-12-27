@@ -1,4 +1,4 @@
 # Classified-Data
-Create a model that will predict the target class based on the classified features.
+Created a model that predicts the target class based on the classified features.
 
-Used K Nearest Neighbors
+Used K-Nearest Neighbors.
